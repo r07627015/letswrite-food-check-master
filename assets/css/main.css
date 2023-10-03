@@ -59,7 +59,7 @@
     padding: 2rem 0.5rem;
   }
   .god h1 {
-    font-size: 4rem;
+    font-size: 2rem;
   }
   .god span {
     max-height: 36px;
@@ -1296,9 +1296,10 @@
   border: 1px solid rgba(41, 44, 55, 0.27);
   text-decoration: none;
   color: rgba(41, 44, 55, 0.54);
+  font-size:larger;
 }
 .btn-start::after {
-  content: "轉動命運輪盤";
+  content: "";
   line-height: 1;
 }
 .btn-start:hover {
